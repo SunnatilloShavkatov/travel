@@ -4,7 +4,7 @@ import 'package:travel_app/widgets/destinationCarousel.dart';
 import 'package:travel_app/widgets/hotelCarousel.dart';
 
 class HomePage extends StatefulWidget {
-  HomePage({Key key}) : super(key: key);
+  HomePage({Key? key}) : super(key: key);
 
   @override
   _HomePageState createState() => _HomePageState();
@@ -97,21 +97,18 @@ class _HomePageState extends State<HomePage> {
               Icons.search,
               size: 30.0,
             ),
-            title: SizedBox.shrink(),
           ),
           BottomNavigationBarItem(
             icon: Icon(
               Icons.home,
               size: 30.0,
             ),
-            title: SizedBox.shrink(),
           ),
           BottomNavigationBarItem(
             icon: CircleAvatar(
               radius: 15.0,
               backgroundImage: NetworkImage(''),
             ),
-            title: SizedBox.shrink(),
           ),
         ],
       ),

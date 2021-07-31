@@ -4,7 +4,7 @@ import 'package:travel_app/models/destination.dart';
 import 'package:travel_app/pages/destination_page.dart';
 
 class DestinationCarousel extends StatelessWidget {
-  const DestinationCarousel({Key key}) : super(key: key);
+  const DestinationCarousel({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

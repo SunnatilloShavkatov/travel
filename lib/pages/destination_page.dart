@@ -6,7 +6,7 @@ import 'package:travel_app/models/destination.dart';
 class DestinationPage extends StatefulWidget {
   final Destination destination;
 
-  DestinationPage({this.destination});
+  DestinationPage({required this.destination});
   @override
   _DestinationPageState createState() => _DestinationPageState();
 }
