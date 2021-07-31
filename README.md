@@ -1,7 +1,6 @@
 
 
 
-[![MIT License][license-shield]][license-url]
 [![Telegram][telegram]][telegram-url]
 
 
@@ -139,5 +138,5 @@ Project Link: [https://github.com/SunnatilloShavkatov/travel](https://github.com
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/sahilkargutkar/palghar-tourism.svg?style=for-the-badge
 [license-url]: https://github.com/SunnatilloShavkatov/travel/blob/master/LICENSE.txt
-[telegram]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[telegram]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 [telegram-url]: https://t.me/sunnatilloshavkatov
