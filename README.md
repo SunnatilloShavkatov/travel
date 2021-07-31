@@ -138,6 +138,6 @@ Project Link: [https://github.com/SunnatilloShavkatov/travel](https://github.com
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: sunnatilloshavkatov@gmail
+[gmail-url]: mailto:sunnatilloshavkatov@gmail
 [telegram]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 [telegram-url]: https://t.me/sunnatilloshavkatov
