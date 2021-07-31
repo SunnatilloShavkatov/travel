@@ -1,18 +1,14 @@
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
+[![MIT License][license-shield]][license-url]
+[![Telegram][telegram]][telegram-url]
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/sahilkargutkar/palghar-tourism">
+  <a href="https://github.com/SunnatilloShavkatov/travel">
     <img src="" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,16 +17,15 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/sahilkargutkar/palghar-tourism"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SunnatilloShavkatov/travel"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sahilkargutkar/palghar-tourism">View Demo</a>
+    <a href="https://github.com/SunnatilloShavkatov/travel">View Demo</a>
     ·
-    <a href="https://github.com/sahilkargutkar/palghar-tourism">Report Bug</a>
+    <a href="https://github.com/SunnatilloShavkatov/travel">Report Bug</a>
     ·
-    <a href="https://github.com/sahilkargutkar/palghar-tourism">Request Feature</a>
+    <a href="https://github.com/SunnatilloShavkatov/travel">Request Feature</a>
   </p>
-</p>
 
 
 
@@ -64,7 +59,7 @@
 
 ## About The Project
 
-![Travel-App](https://github.com/sahilkargutkar/palghar-tourism/blob/master/images/screenshot.png)
+![Travel-App](https://github.com/SunnatilloShavkatov/travel/blob/master/images/screenshot.png)
 
 ### Built With
 
@@ -88,7 +83,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/sahilkargutkar/palghar-tourism.git
+   git clone https://github.com/SunnatilloShavkatov/travel.git
    ```
 
 
@@ -105,7 +100,7 @@ _For more examples, please refer to the [Documentation](https://flutter.dev/docs
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/sahilkargutkar/palghar-tourism/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/SunnatilloShavkatov/travel/issues) for a list of proposed features (and known issues).
 
 
 
@@ -132,9 +127,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Sahil Kargutkar](mailto:sahilkargutkar.sk@gmail.com) - email
+Your Name - [Sunnatillo_Shavkatov](mailto:sunnatilloshavkatov@gmail.com) - email
 
-Project Link: [https://github.com/sahilkargutkar/palghar-tourism](https://github.com/sahilkargutkar/palghar-tourism)
+Project Link: [https://github.com/SunnatilloShavkatov/travel](https://github.com/SunnatilloShavkatov/travel)
 
 
 
@@ -142,15 +137,7 @@ Project Link: [https://github.com/sahilkargutkar/palghar-tourism](https://github
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sahilkargutkar/palghar-tourism.svg?style=for-the-badge
-[contributors-url]: https://github.com/sahilkargutkar/palghar-tourism/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sahilkargutkar/palghar-tourism.svg?style=for-the-badge
-[forks-url]: https://github.com/sahilkargutkar/palghar-tourism/network/members
-[stars-shield]: https://img.shields.io/github/stars/sahilkargutkar/palghar-tourism.svg?style=for-the-badge
-[stars-url]: https://github.com/sahilkargutkar/palghar-tourism/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sahilkargutkar/palghar-tourism.svg?style=for-the-badge
-[issues-url]: https://github.com/sahilkargutkar/palghar-tourism/issues
 [license-shield]: https://img.shields.io/github/license/sahilkargutkar/palghar-tourism.svg?style=for-the-badge
-[license-url]: https://github.com/sahilkargutkar/palghar-tourism/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/sahilkar99
+[license-url]: https://github.com/SunnatilloShavkatov/travel/blob/master/LICENSE.txt
+[telegram]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[telegram-url]: https://t.me/sunnatilloshavkatov
